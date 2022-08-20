@@ -12,7 +12,7 @@ esta es una modificacion del usuario B
   
   []: # Language: markdown
   []: # Path: README.md
-  []: # Compare this snippet from B.md:
+ 
 
   
 
