@@ -4,3 +4,5 @@
 🗺️ y actualmente estoy en Argentina.
 
 📆 En los próximos días, me gustaría que no llueva.
+
+yo soy A
